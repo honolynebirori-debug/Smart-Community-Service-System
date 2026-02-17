@@ -1,0 +1,1 @@
+{\n  \"name\": \"smart-community-service-system\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Backend service for smart community system\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"author\": \"honolynebirori-debug\",\n  \"license\": \"ISC\"\n}
